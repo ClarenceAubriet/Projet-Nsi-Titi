@@ -1,0 +1,64 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map0.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "C:/Users/SAMSUNG/OneDrive/Desktop/ALL ENIGMA/Enigma Childhood/assets/sprite/MC.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "map0.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 455.99999999999994,
+                "y": 300
+            }
+        },
+        "tileset/tileset_16pix.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/tileset_55pix.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/tileset_8pix.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tileset/tileset_si_pas_le_temps_de_finir_tous_mes_dessins.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/SAMSUNG/OneDrive/Desktop/ALL ENIGMA/Enigma Childhood/assets/map",
+    "map.height": 68,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 120,
+    "openFiles": [
+        "map0.tmx",
+        "tileset/tileset_16pix.tsx"
+    ],
+    "project": "map0.tiled-project",
+    "recentFiles": [
+        "tileset/tileset_16pix.tsx",
+        "map0.tmx",
+        "tileset/tileset_8pix.tsx",
+        "tileset/tileset_55pix.tsx",
+        "tileset/tileset_si_pas_le_temps_de_finir_tous_mes_dessins.tsx",
+        "C:/Users/SAMSUNG/OneDrive/Desktop/ALL ENIGMA/Enigma Childhood/assets/sprite/MC.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
